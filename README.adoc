@@ -1,0 +1,86 @@
+= Best Software Firm in Bangladesh
+
+A list of top software firms in Bangladesh to help developers find opportunities.
+
+== How to add a new Company?
+
+- Fork the repository.
+- Add the company in alphabetical order.
+- Create pull request.
+
+{nbsp} +
+{nbsp} +
+
+=== Alphabetical Order: A - C
+|===
+|Company Name |Office location |Technologies |Web presence |No. of Software Engineers
+
+|Onecodesoft  
+|SR Plaza, 137/10, Mazar Road, 7th Floor, Flat - 7A, Mirpur 1, Dhaka, Dhaka Division, 1216  
+|Laravel, PHP, Javascript, Python, Flutter, NodeJs, ReactJS  
+|https://onecodesoft.com/  
+[Facebook](https://www.facebook.com/onecodesoft) | [Instagram](https://www.instagram.com/onecodesoft) | [Twitter](https://twitter.com/onecodesoft) | [LinkedIn](https://www.linkedin.com/company/onecodesoft/)  
+|10+
+
+|Adplay Technologies (VU Mobile)  
+|Head Office: 4th Floor, House- 114, Road-12, Block-E, Banani, Dhaka-1213  
+|JavaScript, React, WordPress  
+|http://vumobile.biz/[Website]  
+|Please update
+
+|Adventure Dhaka Limited  
+|Head Office: Autograph Tower, 67-68, Kemal Ataturk Avenue, Banani, 17th & 8th Floor, Dhaka, Dhaka 1213  
+|Golang, JAVA, Swift, Flutter, Javascript, React, Nextjs, DevOps  
+|https://adventurekk.com/company/about/[Website]  
+|Please update
+
+|All Generation tech  
+|54 A 132 Road, Dhaka 1212  
+|C#, dotnet, Python, Go, MongoDB, Docker, Azure, Unqork  
+|https://allgentech.bamboohr.com/careers[Website]  
+|100+
+
+|Anchorblock Technology  
+|Block C House, 57 Rd Number 4, Dhaka 1213  
+|JavaScript, Python, ReactJS, NodeJS, NestJS, Django, Hyperledger Fabric, Flutter, Android, Solidity, Smart Contract, Machine Learning, AWS  
+|https://anchorblock.ai/[Website]  
+|Please update
+
+|Apex DMIT  
+|Catharsis Tower, (6th Floor) House #133, Road #12, Block-E, Banani, Dhaka, 1213  
+|PHP, JavaScript, Python, Flutter  
+|https://www.apexdmit.com/[Website]  
+|Please update
+
+|Appnap  
+|Ranks Business Center (5th Floor), Ka-218/1, Pragati Sarani, Kuril, Dhaka-1229  
+|iOS  
+|https://www.appnap.io/[Website]  
+|Please update
+
+|AppsCode Ltd.  
+|Flat A2, House 4, Rd No. 10, Dhaka 1230  
+|Golang, Docker, Kubernetes, Vue.js  
+|https://www.appscode.com/[Website]  
+https://www.linkedin.com/company/appscode/[LinkedIn]  
+|Please update
+
+|Appstick  
+|85, KDA Outer Bypass Rd, Khulna 9100  
+|iOS, Android, Flutter, React Native  
+|https://appstick.com.bd/[Website]  
+|Please update
+
+|Appyfilab  
+|Akhter shopping city, 5th floor, Modina Market, Sylhet 3100  
+|ReactJS, VueJS, Nuxt, NodeJS, Flutter, Laravel  
+|https://www.appifylab.com/[Website]  
+|50+
+
+===
+
+== Contribute
+Contributions are always welcome! Create a pull request.
+
+== Copyright & License
+Licensed under the MIT License, see the link: LICENSE file for details.
